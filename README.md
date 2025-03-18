@@ -4,7 +4,7 @@ That is me in a nutshell:
 
 🤓 I am a Freelance AI Consultant and Developer and Co-Founder of Upsail AI. 
 🛠️ I mostly write in Python and typescript.  
-📝 I enjoy writing technical content. https://medium.com/@marko.briesemann
+📝 I enjoy writing technical content. https://medium.com/@marko.briesemann  
 🔭 I’m currently working on my own start-up idea in the area of education and emotions using GenAI.  
 🌱 I’m currently learning everything in RAG/Agents, JAX and cooking.  
 👯 I’m looking to collaborate on GenAI.  
